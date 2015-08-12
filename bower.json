@@ -1,0 +1,8 @@
+{
+  "name": "api-s3-list",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0",
+    "iron-ajax": "PolymerElements/iron-ajax#^1.0",
+    "xml-parser": "x-element/xml-parser"
+  }
+}
